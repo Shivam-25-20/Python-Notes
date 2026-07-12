@@ -1,0 +1,5 @@
+a = int(input("Enter 1st Number : "))
+b = int(input("Enter 2st Number : "))
+print(a == 52 and b == 71 and a > 5 and b < 84)
+print(a == 52 or b == 71)
+print("not :", not(a > 5))
