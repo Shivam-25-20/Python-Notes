@@ -15,7 +15,7 @@ In this lesson, you'll learn **Python Operators**, which are used to perform ope
 **Link:** 
 
 ```
-https://www.youtube.com/watch?v=5F30cyYvaqE&list=PLRQPMjq53-SA&index=2&t=149s
+https://www.youtube.com/watch?v=YNf5_WuW0mE&list=PLRQPMjq53-SA&index=3
 ```
 
 ---
