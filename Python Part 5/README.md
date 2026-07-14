@@ -12,7 +12,7 @@ In this lesson, you'll learn about **Loops**, one of the most powerful concepts 
 
 ▶️ **YouTube Tutorial**
 
-**Link:** *(Paste your YouTube video link here)*
+**Link:**
 
 ```
 https://youtu.be/GmTHRzfo2Bk
@@ -27,13 +27,13 @@ Download the complete source code and notes from this repository.
 ### 📂 Jupyter Notebook (.ipynb)
 
 ```
-https://github.com/Shivam-25-20/Python-Notes/blob/main/Python%20Part%203/Python_Day5_Loops.ipynb
+https://github.com/Shivam-25-20/Python-Notes/blob/main/Python%20Part%205/Python_Notes_Day5.ipynb
 ```
 
 ### 📄 PDF Notes
 
 ```
-https://github.com/Shivam-25-20/Python-Notes/blob/main/Python%20Part%203/Python_Day5_Loops.pdf
+https://github.com/Shivam-25-20/Python-Notes/blob/main/Python%20Part%205/Python_Notes_Day5.pdf
 ```
 
 ---
