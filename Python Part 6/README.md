@@ -12,8 +12,7 @@ In this lesson, you'll learn about **Functions**, one of the most important conc
 
 ▶️ **YouTube Tutorial**
 
-**Link:** *(Paste your YouTube video link here)*
-
+**Link:** 
 ```
 https://youtu.be/LhBwmlsAg5E
 ```
@@ -27,13 +26,13 @@ Download the complete source code and notes from this repository.
 ### 📂 Jupyter Notebook (.ipynb)
 
 ```
-https://github.com/Shivam-25-20/Python-Notes/blob/main/Python%20Part%203/Python_Day6_Functions.ipynb
+https://github.com/Shivam-25-20/Python-Notes/blob/main/Python%20Part%206/Python_Notes_Day6.ipynb
 ```
 
 ### 📄 PDF Notes
 
 ```
-https://github.com/Shivam-25-20/Python-Notes/blob/main/Python%20Part%203/Python_Day6_Functions.pdf
+https://github.com/Shivam-25-20/Python-Notes/blob/main/Python%20Part%206/Python_Notes_Day6.pdf
 ```
 
 ---
