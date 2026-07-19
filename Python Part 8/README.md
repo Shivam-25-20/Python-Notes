@@ -10,7 +10,7 @@ In this lesson, you'll learn everything about **Tuples** in Python. Tuples are o
 🔗 https://youtu.be/qHfATuaFc3s
 
 # 💻 Source Code
-🔗 https://github.com/YOUR_USERNAME/Python-Course/tree/main/Day-08
+🔗 https://github.com/Shivam-25-20/Python-Notes/tree/main/Python%20Part%208
 
 # 📒 Jupyter Notebook (.ipynb)
 🔗 https://github.com/Shivam-25-20/Python-Notes/blob/main/Python%20Part%208/Python_Notes_Day8.ipynb
