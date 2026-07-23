@@ -13,10 +13,10 @@ In this lesson, you'll learn the fundamentals of **Strings** in Python. Strings 
 🔗 https://github.com/Shivam-25-20/Python-Notes/tree/main/Python%20Part%209
 
 # 📒 Jupyter Notebook (.ipynb)
-🔗 https://github.com/Shivam-25-20/Python-Notes/blob/main/Python%20Part%209/Python_Notes_Day9.ipynb
+🔗 https://github.com/Shivam-25-20/Python-Notes/blob/main/Python%20Part%209/Python_Notes_Day8.ipynb
 
 # 📄 PDF Notes
-🔗 https://github.com/Shivam-25-20/Python-Notes/blob/main/Python%20Part%209/Python_Notes_Day9.pdf
+🔗 https://github.com/Shivam-25-20/Python-Notes/blob/main/Python%20Part%209/Python_Notes_Day8.pdf
 
 # 📚 Topics Covered
 
